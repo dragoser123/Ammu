@@ -32,15 +32,15 @@ global.APIKeys = { // The APIKey is here
 }
 
 // Sticker WM
-global.packname = '💋 ᴍɪʟʟɪᴇ 💋'
-global.author = 'Ⓝ🅔Ⓔ🅡Ⓐ🅙'
+global.packname = '💋 ᴀᴍᴍᴜ 💋'
+global.author = '𖦜꯭🌟⃟🀀͢𝐃𝐑͛𝚫𝐆𝚯 ⸸ 𝟔𝟔𝟔  㼄'
 
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
 global.fla = 'https://github.com/neera-j/Bot-Files/blob/main/images/millie.jpg'
 
-global.watermark = '© ᴍɪʟʟɪᴇ'
+global.watermark = '© ᴅʀᴀɢᴏ'
 
 global.multiplier = 69 // The higher it is, the harder it is to level up
 
